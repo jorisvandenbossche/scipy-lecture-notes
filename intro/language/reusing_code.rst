@@ -28,12 +28,12 @@ following lines in a file called ``test.py`` ::
 .. tip::
 
     Let us now execute the script interactively, that is inside the
-    Ipython interpreter. This is maybe the most common use of scripts in
+    IPython interpreter. This is maybe the most common use of scripts in
     scientific computing.
 
 .. note::
 
-    in Ipython, the syntax to execute a script is ``%run script.py``. For
+    in IPython, the syntax to execute a script is ``%run script.py``. For
     example,
 
 .. sourcecode:: ipython
@@ -420,7 +420,7 @@ imported.
     fourier.py@  __init__.pyc  morphology.py@     setup.py@
 
 
-From Ipython:
+From IPython:
 
 .. sourcecode:: ipython
 

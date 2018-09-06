@@ -19,7 +19,7 @@ if/elif/else
 .. tip::
    
     Type the following lines in your Python interpreter, and be careful
-    to **respect the indentation depth**. The Ipython shell automatically
+    to **respect the indentation depth**. The IPython shell automatically
     increases the indentation depth after a colon ``:`` sign; to
     decrease the indentation depth, go four spaces to the left with the
     Backspace key. Press the Enter key twice to leave the logical block.
@@ -38,7 +38,7 @@ if/elif/else
 
 Indentation is compulsory in scripts as well. As an exercise, re-type the
 previous lines with the same indentation in a script ``condition.py``, and
-execute the script with ``run condition.py`` in Ipython.
+execute the script with ``run condition.py`` in IPython.
 
 for/range
 ----------

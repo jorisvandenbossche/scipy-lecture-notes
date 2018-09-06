@@ -2,7 +2,7 @@ First steps
 -------------
 
 
-Start the **Ipython** shell (an enhanced interactive Python shell):
+Start the **IPython** shell (an enhanced interactive Python shell):
 
 * by typing "ipython" from a Linux/Mac terminal, or from the Windows cmd shell,
 * **or** by starting the program from a menu, e.g. in the `Python(x,y)`_ or
@@ -13,10 +13,10 @@ Start the **Ipython** shell (an enhanced interactive Python shell):
 
 .. tip::
 
-    If you don't have Ipython installed on your computer, other Python
+    If you don't have IPython installed on your computer, other Python
     shells are available, such as the plain Python shell started by
     typing "python" in a terminal, or the Idle interpreter. However, we
-    advise to use the Ipython shell because of its enhanced features,
+    advise to use the IPython shell because of its enhanced features,
     especially for interactive scientific computing.
 
 Once you have started the interpreter, type ::

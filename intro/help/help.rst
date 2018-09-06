@@ -9,7 +9,7 @@ Rather than knowing all functions in Numpy and Scipy, it is important to
 find rapidly information throughout the documentation and the available
 help. Here are some ways to get information:
 
-* In Ipython, ``help function`` opens the docstring of the function. Only
+* In IPython, ``help function`` opens the docstring of the function. Only
   type the beginning of the function's name and use tab completion to
   display the matching functions.
 
@@ -21,8 +21,8 @@ help. Here are some ways to get information:
       
       In [204]: help np.vander
 	
-In Ipython it is not possible to open a separated window for help and
-documentation; however one can always open a second ``Ipython`` shell
+In IPython it is not possible to open a separated window for help and
+documentation; however one can always open a second ``ipython`` shell
 just to display help and docstrings...
 
 .. image:: scipy_doc.png
@@ -76,7 +76,7 @@ just to display help and docstrings...
 
 Finally, two more "technical" possibilities are useful as well:
 
-* In Ipython, the magical function ``%psearch`` search for objects
+* In IPython, the magical function ``%psearch`` search for objects
   matching patterns. This is useful if, for example, one does not know
   the exact name  of a function.
 

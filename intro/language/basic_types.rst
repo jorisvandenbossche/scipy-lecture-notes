@@ -266,7 +266,7 @@ Concatenate and repeat lists::
 
 .. topic:: **Discovering methods:**
 
-    Reminder: in Ipython: tab-completion (press tab)
+    Reminder: in IPython: tab-completion (press tab)
 
     .. sourcecode:: ipython
 
